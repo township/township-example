@@ -1,0 +1,33 @@
+{
+  "name": "township-example-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/township/township-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/township/township-example/issues"
+  },
+  "homepage": "https://github.com/township/township-example#readme",
+  "dependencies": {
+    "appa": "^6.0.0",
+    "cookie-cutter": "^0.2.0",
+    "corsify": "^2.1.0",
+    "level-party": "^3.0.4",
+    "township-access": "^2.0.0",
+    "township-accounts": "^3.0.0",
+    "township-auth": "^2.0.5",
+    "township-token": "^2.0.0"
+  },
+  "devDependencies": {
+    "memdb": "^1.3.1"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "township-example-ui",
+  "version": "1.0.0",
+  "description": "example ui for township",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "choo": "^4.0.0-5",
+    "css-extract": "^1.1.3",
+    "form-serialize": "^0.7.1",
+    "insert-css": "^1.0.0",
+    "sheetify": "^5.1.2",
+    "store": "^1.3.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browser": {
+    "request": "xhr"
+  },
+  "author": "",
+  "license": "ISC"
+}
